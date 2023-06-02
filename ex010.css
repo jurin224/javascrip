@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: rgb(170, 112, 224);
+}
+div {
+    background-color: aliceblue;
+}
+.botao1 {
+    height: 40px;
+}

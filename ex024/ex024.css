@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(77, 232, 219);
+}
+
+.div1 {
+    padding: 20px;
+    background-color: rgb(182, 237, 236);
+    margin: 0 auto;
+    width: 700px;
+    border-radius: 10px;
+}
+
+img {
+    width: 180px;
+}
+
+#resultado {
+    display: flex;
+    flex-wrap: wrap ;
+    gap: 10px;
+}

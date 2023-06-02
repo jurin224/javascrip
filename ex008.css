@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+div{
+    background-color: aliceblue;
+    height: 600px;
+    width: 1400px;
+    text-align: center;
+}
+h1{
+    color: aliceblue;
+}
